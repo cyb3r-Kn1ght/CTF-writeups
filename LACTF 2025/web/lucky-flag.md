@@ -7,7 +7,7 @@ In this challenge, player need to find out flag hidden in a web. Flag only appea
 **Client-Side Secret Disclosure**: Flag is completely stored and mapulated on browser. This mean everyone can open Dev Tools (pressing F12), look into source code and analyze logic to get flag.
 ## Exploitation
 1. **Overlook**
-- We can see a lot of box named flag. When we click a box, we receive an alert “no flag here” in most case so if you are a lucky boy, you can get flag just one click:)).
+- We can see a lot of box named flag. When we click a box, we receive an alert “no flag here” in most case but if you are a lucky boy, you can get flag just one click:)).
 ![image](https://github.com/user-attachments/assets/8b55a1af-a6de-4e33-9236-7a1cb48d629d)
 - Let’s take a look in page source.
 ![image](https://github.com/user-attachments/assets/75c4541a-0ad4-4a5d-80e7-cd447c5781e5)
