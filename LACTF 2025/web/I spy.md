@@ -59,4 +59,5 @@ dig TXT i-spy.chall.lac.tf
 ![image](https://github.com/user-attachments/assets/9797d977-224c-4783-8ac9-c0ae480bbe05)
 3. **Get Flag**
 - Just get it.
+
 ![image](https://github.com/user-attachments/assets/7a47b995-7a0d-4f94-b8c6-cf53e79c48de)
