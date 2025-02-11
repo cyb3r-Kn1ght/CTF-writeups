@@ -1,5 +1,6 @@
 # I spy... write up
-Team: UIT.4KySiNguLam
+### Team: UIT.4KySiNguLam
+
 ![image](https://github.com/user-attachments/assets/c101b858-61a0-459b-9f85-24943925d21c)
 ## Overview
 In this challenge, you need to have a knowledge about web structure, HTTP request, file on webpath, dig command to solve this challenge.
