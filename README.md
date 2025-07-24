@@ -10,10 +10,7 @@ Each write-up includes:
 - **Vulnerability Analysis:** Identification and explanation of the security issues or logic flaws exploited.
 - **Exploitation Steps:** A step-by-step breakdown of the techniques used to solve the challenge, often accompanied by code snippets and scripts.
 
-The repository covers challenges from multiple domains such as:
-
-- Web Security
-- Reverse Engineering
+The repository covers challenges from Web Security.
 
 Whether you're a seasoned CTF veteran or just starting out, I hope these write-ups serve as a valuable resource for learning and inspiration.
 
